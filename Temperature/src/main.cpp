@@ -232,6 +232,6 @@ c = sensors.getTempCByIndex(0); //get temp in Celsius
   client.loop(); 
 
 
-  delay(200); //one second readings
+  //delay(200); //one second readings
   
 }
